@@ -1,0 +1,54 @@
+body{
+background-color: black;
+font-family:"Baskerville Old Face";
+}
+
+header h1{
+    color:rgb(233, 233, 233);
+    font-size:80px;
+}
+
+.myform h2{
+    color: grey;
+    font-size:40px;
+}
+
+.myform input{
+    width: 650px;
+    height: 40px;
+    background-color: rgb(168, 167, 167);
+}
+
+#button input{
+    height: 40px;
+    width: 160px;
+    margin-left: 500px;
+    color: white;
+    background-color:black;
+    border:3px solid rgb(221, 221, 221);
+    
+}
+
+#button :hover{
+    color:black;
+    background-color: white;
+}
+
+#button :active{
+    background-color: red;
+}
+
+#msg{
+    color:grey;
+    font-size:30px;
+    margin-bottom: 20px;
+}
+
+
+
+#output{
+    height: 700px;
+    width: 700px;
+    background-color:black;
+    margin-top: 20px;
+}

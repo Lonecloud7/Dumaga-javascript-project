@@ -1,0 +1,75 @@
+.container{
+    width: 100%;
+    height: 1200px;
+    background-color: silver;
+}
+
+.box1{
+    width: 100%;
+    height: 400px;
+    background-color: brown;
+    box-shadow:0 0 10px black;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.boxone{
+    width:300px;
+    height: 300px;
+    background: white;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.boxtwo{
+    width:300px;
+    height: 300px;
+    background: white;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.boxthree{
+    width:300px;
+    height: 300px;
+    background: white;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.box2{
+    width: 100%;
+    height: 400px;
+    background-color: yellow;
+    box-shadow:0 0 10px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxfour{
+    width:300px;
+    height: 300px;
+    background: white;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.boxfive{
+    width:300px;
+    height: 300px;
+    background: white;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+.boxsix{
+    width:300px;
+    height: 300px;
+    background: white;
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+}

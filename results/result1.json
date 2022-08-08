@@ -1,0 +1,32 @@
+[
+    {
+        "subject":"Mathematics 204",
+        "grade":"F"
+        
+    },
+
+    {
+        "subject":"Computer Science 164",
+        "grade":"B"
+    },
+
+    {
+        "subject":"E-commerce 236",
+        "grade":"C-"
+    },
+
+    {
+        "subject":"Economics 250",
+        "grade":"A"
+    },
+    {
+        "subject":"Networking 203",
+        "grade":"E"
+    },{
+        "subject":"English Language 305",
+        "grade":"B-"
+    },{
+        "subject":"Geography 104",
+        "grade":"C"
+    }
+]

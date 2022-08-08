@@ -1,0 +1,158 @@
+/* BODY */
+body{
+    text-align: center;
+    background-color: #e69d30;
+    
+}
+
+
+/* HEADER */
+
+.container-1{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(59, 59, 59);
+}
+
+.container-1 header{
+    padding-top:40px;
+    font-size:x-large;
+}
+
+
+#navbar ul{
+    
+    display: flex;
+    justify-content: center;
+    list-style-type:none;
+}
+
+#navbar ul a{
+    margin:20px;
+    text-decoration:none;
+    text-transform:uppercase;
+    color: black;
+}
+
+/* SIDEBAR */
+.container-2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 950px;
+    background-color:brown;
+}
+
+#sidebar{
+    width: 300px;
+    height: 850px;
+    background-color: chocolate;
+    flex: 1;
+}
+
+/* CONTENT */
+.content{
+    height: 850px;
+    flex:10;
+    display:flex;
+}
+
+.line1{
+
+    width: 500px;
+    height: 850px;
+    flex:5;
+}
+
+.line2{
+    width: 500px;
+    height: 850px;
+    flex:5;
+}
+
+#book1{
+    width: 350px;
+    height: 400px;
+    background-color: darkblue;
+}
+
+#book2{
+    width: 350px;
+    height: 400px;
+    background-color: darkblue;
+}
+
+#book3{
+    width: 350px;
+    height: 400px;
+    background-color: darkblue;
+}
+
+#book4{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(139, 0, 120);
+}
+
+#book5{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(139, 0, 120);
+}
+
+#book6{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(139, 0, 120);
+}
+
+
+
+/* 
+BOOK DETAILS */
+#display1{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: none;
+}
+
+#display2{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: none;
+}
+
+#display3{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: none;
+}
+
+#display4{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: none;
+}
+
+#display5{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: none;
+}
+
+#display6{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: none;
+}
+
+img{
+    height: 300px;
+    width: 150px;
+}

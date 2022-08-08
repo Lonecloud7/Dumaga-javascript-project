@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REGULAR EXPRESSIONS</title>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+    <div id="container">
+
+        <h1>
+            FORM VALIDATION WITH REGULAR EXPRESSION
+        </h1>
+
+        <form id="myform">
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" class="form-control" id="name" placeholder="Enter your Name">
+
+                <div class="invalid-feedback">
+                    Name must be between 5 to 10 characters
+                </div>
+            </div>
+
+            
+            <div class="form-group">
+                <label>Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Enter Your Email">
+
+                <div class="invalid-feedback">
+                    Enter a valid email address, please!
+                </div>
+            </div>
+
+            <div class="form-group">
+
+                <label>Phone Number</label>
+                <input type="text" class="form-control" id="phoneNumber" placeholder="Enter your phone number">
+
+                <div class="invalid-feedback">
+                    Enter a valid phone number
+                </div>
+
+            </div><br>
+
+            <input type="submit" value="submit" class="form-control" id="submit">
+        </form>
+    </div>
+
+    <script src="rgexp.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
